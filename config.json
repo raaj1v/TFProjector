@@ -1,7 +1,7 @@
 {
     "embeddings": [
       {
-        "tensorName": "My tensor",
+        "tensorName": "words semantic visualisation",
         "tensorShape": [
           2181,
           100
