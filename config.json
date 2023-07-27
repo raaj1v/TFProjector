@@ -6,8 +6,8 @@
           2181,
           100
         ],
-        "tensorPath": "https://drive.google.com/file/d/1KzkML7tqx_PzXkWeAFtaeQwQo-NuXEp7",
-        "metadataPath": "https://drive.google.com/file/d/1rHOKu_YoA-ukHsSVp8soENVERT2m3Bs8"
+        "tensorPath": "https://raw.githubusercontent.com/raaj1v/TFProjector/main/embeddings_original.tsv",
+        "metadataPath": "https://raw.githubusercontent.com/raaj1v/TFProjector/main/metadata_original.tsv"
       }
     ]
   }
