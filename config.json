@@ -1,13 +1,13 @@
 {
-  "embeddings": [
-    {
-      "tensorName": "My tensor",
-      "tensorShape": [
-        2181,
-        100
-      ],
-      "tensorPath": "https://github.com/raaj1v/TFProjector/blob/main/embeddings_original.tsv",
-      "metadataPath": "https://github.com/raaj1v/TFProjector/blob/main/metadata_original.tsv"
-    }
-  ]
-}
+    "embeddings": [
+      {
+        "tensorName": "My tensor",
+        "tensorShape": [
+          2181,
+          100
+        ],
+        "tensorPath": "https://drive.google.com/file/d/1KzkML7tqx_PzXkWeAFtaeQwQo-NuXEp7",
+        "metadataPath": "https://drive.google.com/file/d/1rHOKu_YoA-ukHsSVp8soENVERT2m3Bs8"
+      }
+    ]
+  }
